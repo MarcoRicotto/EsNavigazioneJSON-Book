@@ -1,3 +1,3 @@
 # PROGETTO DA REMOTO
 
-### Primo progetto caricato da remoto su GitHub
+### Primo progetto di T.P.S.I caricato da remoto su GitHub
